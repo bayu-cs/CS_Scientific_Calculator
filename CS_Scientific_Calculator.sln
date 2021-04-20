@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Scientific_Calculator", "CS_Scientific_Calculator\CS_Scientific_Calculator.csproj", "{CDF9919E-2399-4049-BFDD-AC431AEC41C5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{DE3CD14D-9599-4284-BC38-745FF6D42D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF9919E-2399-4049-BFDD-AC431AEC41C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF9919E-2399-4049-BFDD-AC431AEC41C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF9919E-2399-4049-BFDD-AC431AEC41C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF9919E-2399-4049-BFDD-AC431AEC41C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3CD14D-9599-4284-BC38-745FF6D42D1B}.Debug|Any CPU.ActiveCfg = Debug
+		{DE3CD14D-9599-4284-BC38-745FF6D42D1B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C9DAA7-4AEE-469A-99C7-7BA86DBA690F}
+	EndGlobalSection
+EndGlobal
